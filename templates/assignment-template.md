@@ -6,10 +6,10 @@
 
 ## 📝 Tasks
 
-### 🛠️	[Task 1 Title]
+### 🛠️ [Task 1 Title]
 
 #### Description
-[Description what needs to be done by the student for this task]
+[Description of what needs to be done by the student for this task]
 
 #### Requirements
 Completed program should:
@@ -18,11 +18,10 @@ Completed program should:
 - [Requirement 2]
 - [Requirement 3]
 
-
-### 🛠️	[Task 2 Title]
+### 🛠️ [Task 2 Title]
 
 #### Description
-[Description what needs to be done by the student for this task]
+[Description of what needs to be done by the student for this task]
 
 #### Requirements
 Completed program should:
