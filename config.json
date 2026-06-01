@@ -72,6 +72,35 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-unit-testing",
+      "title": "Python Unit Testing & Test-Driven Development",
+      "description": "Master unit testing with pytest: write test cases, use fixtures and mocks, and measure code coverage",
+      "path": "assignments/python-unit-testing",
+      "dueDate": "2026-06-08",
+      "attachments": [
+        {
+          "name": "Calculator Module",
+          "file": "calculator.py",
+          "type": "python"
+        },
+        {
+          "name": "User Service Module",
+          "file": "user_service.py",
+          "type": "python"
+        },
+        {
+          "name": "Test Template",
+          "file": "test_calculator.py",
+          "type": "python"
+        },
+        {
+          "name": "Pytest Configuration",
+          "file": "conftest.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
