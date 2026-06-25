@@ -79,5 +79,30 @@
         }
       ]
     }
+    ,
+    {
+      "id": "testing-ci",
+      "title": "Testes Automatizados e CI",
+      "description": "Escrever testes com pytest e integrar execução automática via GitHub Actions.",
+      "path": "assignments/testing-ci",
+      "dueDate": "2026-08-15",
+      "attachments": [
+        {
+          "name": "Library",
+          "file": "calc.py",
+          "type": "python"
+        },
+        {
+          "name": "Tests",
+          "file": "tests/test_calc.py",
+          "type": "python"
+        },
+        {
+          "name": "Dev Requirements",
+          "file": "requirements-dev.txt",
+          "type": "text"
+        }
+      ]
+    }
   ]
 }
